@@ -17,12 +17,6 @@ Third-year Information Technology student specialising in application developmen
 * **Huguenot High School** (2018 - 2022)
   * NSC Matric
 
-##  PROJECTS
-* **Java Car Rental System:** Group Leader for a university project developing a comprehensive car rental application. Managed the repository on GitHub, structured milestones, assigned tasks (entities like Member, Car, Booking), and handled pull requests using Java and IntelliJ.
-* **Personal Profile Website:** Designed and built a personal website using JavaScript, HTML and CSS to show my basic web skills.
-* **Student Accommodation Website:** Developed web-based student accommodation.
-* **Uber App Redesign (Group Project):** Was the project manager and coordinated the redesign of the Uber mobile interface by creating improved layout and user experience using Figma.
-
 ##  SKILLS
 | Web Development | Design | Other Tech |
 | :--- | :--- | :--- |
