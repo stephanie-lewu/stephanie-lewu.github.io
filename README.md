@@ -28,8 +28,7 @@ Third-year Information Technology student specialising in application developmen
 
 ### Mock Interview Video
 
-🔗 
-
+🔗 https://mycputac-my.sharepoint.com/:v:/g/personal/230211216_mycput_ac_za/IQAdk6cjsEk1SbZnTs7K0G79AakaNFRUhaednOFZQocJp1k?e=q9YKxk
 
 ---
 
