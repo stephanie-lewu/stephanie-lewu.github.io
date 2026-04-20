@@ -24,6 +24,49 @@ Third-year Information Technology student specialising in application developmen
 | Basic JavaScript | Responsive Web Design | AI |
 | | Wireframing & Figma | |
 
+## Portfolio Evidence
+
+### Mock Interview Video
+
+🔗 
+
+
+---
+
+### Reflection 1: Coding in Markdown
+
+**Situation:** I needed to build a digital portfolio using GitHub and Markdown.
+
+**Task:** My goal was to translate my traditional CV into a properly formatted, professional Markdown document.
+
+**Action:** After researching Markdown syntax, I utilized headings, bullet points, and hyperlinks to structure my experience. I focused heavily on readability and clean formatting.
+
+**Result:** I successfully created a digital portfolio, sharpening both my ability to present data clearly and my familiarity with essential developer tools.
+
+---
+
+### Reflection 2: Mock Interview Experience
+
+**Situation:** I participated in a mock interview session designed to test work readiness.
+
+**Task:** My aim was to navigate the interview professionally, delivering confident and well-structured answers.
+
+**Action:** I prepared by outlining responses to common behavioral and technical questions. In the interview, I focused on maintaining a steady pace, clear speech, and a professional attitude.
+
+**Result:** The simulation was a great diagnostic tool. It pinpointed where I need to build confidence and better structure my thoughts, leaving me far more prepared for future hiring processes.
+
+---
+
+### Reflection 3: GitHub Pages
+
+**Situation:** I needed to take my Markdown portfolio from a local file to a live website.
+
+**Task:** My responsibility was to handle the web deployment using GitHub Pages.
+
+**Action:** I set up the repository, pushed my markdown files, and activated the GitHub Pages environment. I then ran quality checks on the live site to ensure no formatting was broken during the transition.
+
+**Result:** The site was successfully published. The project served as a great practical introduction to web deployment and hosting fundamentals.
+
 ##  REFERENCES
 * **Jonas Singbo** (Mentor)
   * Email: jonas.singbo@gmail.com
